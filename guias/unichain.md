@@ -398,3 +398,6 @@ Para este tutorial se utilizo una VPS con las siguientes especificaciones: VPS2 
 Hemos instalado y puesto en funcionamiento con éxito un nodo de **UniChain** en nuestro sistema utilizando **Docker** 🦄.
 
 El nodo ahora forma parte activa de la red **UniChain**, aportando tanto a su **seguridad** como a su **descentralización**.
+
+ 
+
